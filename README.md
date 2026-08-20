@@ -165,27 +165,7 @@ No external packages are required.
 
 ---
 
-## ▶️ How to Run
 
-### 1. Clone the repository
-
-```bash
-git clone <your-repository-url>
-```
-
-### 2. Navigate into the project
-
-```bash
-cd Nova-Rule-Based-Chatbot
-```
-
-### 3. Run the chatbot
-
-```bash
-python chatbot.py
-```
-
----
 
 ## 💬 Example Conversation
 
@@ -237,46 +217,4 @@ The chatbot was tested with different types of inputs.
 
 ---
 
-## 🎯 Requirements Checklist
 
-| Requirement             | Implementation           | Status |
-| ----------------------- | ------------------------ | ------ |
-| Continuous input loop   | `while True`             | ✅      |
-| Case sanitization       | `.lower()`               | ✅      |
-| Whitespace sanitization | `.strip()`               | ✅      |
-| Knowledge base          | Response dictionary      | ✅      |
-| 5+ intents              | 7+ predefined intents    | ✅      |
-| Fallback                | `unknown` intent         | ✅      |
-| Exit strategy           | `break` command          | ✅      |
-| If-else logic           | Conditional intent rules | ✅      |
-
----
-
-## 🚀 Future Improvements
-
-Possible future extensions include:
-
-* More conversation intents
-* Better natural-language matching
-* Conversation history
-* Additional predefined FAQs
-* Sentiment-based responses
-* GUI interface
-* Voice interaction
-* Machine-learning-based intent classification
-
-These features are outside the scope of the current rule-based implementation.
-
----
-
-## 👩‍💻 Author
-
-**Manahil**
-
-BS Artificial Intelligence Student
-
----
-
-## 📄 License
-
-This project was created for educational and learning purposes.
