@@ -170,32 +170,10 @@ No external packages are required.
 ## 💬 Example Conversation
 
 ```text
-=======================================================
-🤖 NOVA - RULE-BASED AI ASSISTANT
-=======================================================
-Type 'help' for available commands.
-Type 'bye', 'exit', or 'quit' to end the conversation.
--------------------------------------------------------
-You: hello
-Nova: Hi! Welcome to Nova.
+<img width="646" height="675" alt="image" src="https://github.com/user-attachments/assets/cd2aa609-60bd-4153-9218-c1f24f26d14e" />
 
-You: how are you
-Nova: I'm doing well! How can I assist you?
 
-You: what is your name
-Nova: My name is Nova. I'm your simple AI assistant.
 
-You: what can u do
-Nova: I can respond to greetings, answer basic questions,
-and handle simple conversations using predefined rules.
-
-You: can u help me
-Nova: You can greet me, ask about me, ask how I'm doing,
-or type 'bye' to end the conversation.
-
-You: bye
-Nova: Take care! Until next time!
-```
 
 ---
 
