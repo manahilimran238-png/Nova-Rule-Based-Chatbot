@@ -169,7 +169,6 @@ No external packages are required.
 
 ## 💬 Example Conversation
 
-```text
 <img width="646" height="675" alt="image" src="https://github.com/user-attachments/assets/cd2aa609-60bd-4153-9218-c1f24f26d14e" />
 
 
